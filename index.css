@@ -9,5 +9,20 @@
 }
 
 ul {
-  list-style: none;
+  display: inline-grid;
+
+}
+.avatar {
+  max-width: 50px;
+}
+
+#github-container {
+  text-align: center;
+
+  padding: 1rem;
+  width: 15rem;
+  height: 25rem;
+  display: inline-grid;
+
+
 }
